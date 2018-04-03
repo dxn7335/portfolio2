@@ -20,6 +20,7 @@
   "homepage": "https://github.com/dxn7335/portfolio2#readme",
   "dependencies": {
     "animated": "^0.2.2",
+    "babel-plugin-module-resolver": "^3.1.1",
     "next": "^5.0.0",
     "prop-types": "^15.6.1",
     "react": "^16.2.0",
