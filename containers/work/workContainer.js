@@ -1,4 +1,4 @@
-import isAnimatedContainer from '../../hoc/isAnimatedContainer';
+import isAnimatedContainer from '../../providers/isAnimatedContainer';
 
 // Replace with actual HomeContainer Component
 const SampleComp = (props) => <div>{props.test}</div>;

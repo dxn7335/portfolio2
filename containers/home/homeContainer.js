@@ -1,4 +1,4 @@
-import isAnimatedContainer from '../../hoc/isAnimatedContainer';
+import isAnimatedContainer from '../../providers/isAnimatedContainer';
 import Router from 'next/router';
 import Link from 'next/link';
 
